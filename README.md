@@ -59,38 +59,7 @@ php artisan test
 ```
 
 
----
 
-## Admin dashboard — large screenshot 📸
-A clear view of the admin dashboard (click to open full size).
-
-<p align="center">
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png">
-    <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png" alt="Admin dashboard" style="max-width:1200px; width:100%; height:auto; border:1px solid #ddd; border-radius:6px;">
-  </a>
-</p>
-
----
-
-## Project screenshots gallery
-Below are additional screenshots from the application UI — click any image to view full size.
-
-<p align="center">
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png" width="640" alt="Home page" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png" width="640" alt="Product list" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png" width="640" alt="Product details" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-</p>
-
-<p align="center">
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011345.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011345.png" width="640" alt="Cart" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011357.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011357.png" width="640" alt="Checkout" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011433.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011433.png" width="640" alt="Orders table" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-</p>
-
-<p align="center">
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011445.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011445.png" width="640" alt="Add product" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011514.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011514.png" width="640" alt="Settings" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
-</p>
 
 
 
