@@ -62,6 +62,23 @@ php artisan test
 ---
 
 ## Screenshots 📸
+Full-size screenshots are available in the `screenshots/` folder. The admin dashboard is highlighted below as the hero image.
+
+<p align="center">
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png" width="900" alt="Admin dashboard"></a>
+</p>
+
+<p align="center">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png" width="700" alt="Home page">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png" width="700" alt="Product list">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png" width="700" alt="Product details">
+</p>
+
+> Tip: If you prefer cleaner filenames (no spaces or accents), I can rename the screenshots to `screenshots/home.png`, `screenshots/products.png`, `screenshots/admin.png`, update the README paths, and commit those changes for you.
+
+---
+
+## Screenshots 📸
 Below are a few screenshots from the application UI. The full set is in the `screenshots/` folder.
 
 <p align="center">
