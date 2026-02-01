@@ -59,5 +59,22 @@ php artisan test
 ```
 
 
-.
+---
+
+## Screenshots 📸
+Below are a few screenshots from the application UI. The full set is in the `screenshots/` folder.
+
+<p align="center">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png" width="320" alt="Home page">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png" width="320" alt="Product list">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png" width="320" alt="Product details">
+</p>
+
+<p align="center">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011345.png" width="320" alt="Cart">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011357.png" width="320" alt="Checkout">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png" width="320" alt="Admin view">
+</p>
+
+> Note: If the images do not display immediately on GitHub, make sure the repository is published and pushed; images will show on the repo home page once the files are in the `main` branch.
 
