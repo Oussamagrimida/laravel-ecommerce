@@ -61,37 +61,38 @@ php artisan test
 
 ---
 
-## Screenshots 📸
-Full-size screenshots are available in the `screenshots/` folder. The admin dashboard is highlighted below as the hero image.
+## Admin dashboard — large screenshot 📸
+A clear view of the admin dashboard (click to open full size).
 
 <p align="center">
-  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png" width="900" alt="Admin dashboard"></a>
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png">
+    <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png" alt="Admin dashboard" style="max-width:1200px; width:100%; height:auto; border:1px solid #ddd; border-radius:6px;">
+  </a>
 </p>
-
-<p align="center">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png" width="700" alt="Home page">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png" width="700" alt="Product list">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png" width="700" alt="Product details">
-</p>
-
-> Tip: If you prefer cleaner filenames (no spaces or accents), I can rename the screenshots to `screenshots/home.png`, `screenshots/products.png`, `screenshots/admin.png`, update the README paths, and commit those changes for you.
 
 ---
 
-## Screenshots 📸
-Below are a few screenshots from the application UI. The full set is in the `screenshots/` folder.
+## Project screenshots gallery
+Below are additional screenshots from the application UI — click any image to view full size.
 
 <p align="center">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png" width="320" alt="Home page">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png" width="320" alt="Product list">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png" width="320" alt="Product details">
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011257.png" width="640" alt="Home page" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011312.png" width="640" alt="Product list" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011321.png" width="640" alt="Product details" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
 </p>
 
 <p align="center">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011345.png" width="320" alt="Cart">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011357.png" width="320" alt="Checkout">
-  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011410.png" width="320" alt="Admin view">
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011345.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011345.png" width="640" alt="Cart" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011357.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011357.png" width="640" alt="Checkout" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011433.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011433.png" width="640" alt="Orders table" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
 </p>
 
-> Note: If the images do not display immediately on GitHub, make sure the repository is published and pushed; images will show on the repo home page once the files are in the `main` branch.
+<p align="center">
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011445.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011445.png" width="640" alt="Add product" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
+  <a href="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011514.png"><img src="screenshots/Capture%20d%27%C3%A9cran%202026-02-01%20011514.png" width="640" alt="Settings" style="margin:8px; border:1px solid #ddd; border-radius:6px;"/></a>
+</p>
+
+
+
+
 
