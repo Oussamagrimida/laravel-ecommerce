@@ -59,16 +59,5 @@ php artisan test
 ```
 
 
-## Recommended GitHub Desktop workflow (quick) 🖥️
-- Use GitHub Desktop to commit changes: write a clear commit message, commit to `main`, then click **Publish repository** to push to GitHub.
-- Add `README.md` and `LICENSE` early so collaborators can see how to get started.
-
-
-## Contributing 🤝
-- Fork the repo, create a feature branch, add tests, and open a PR.
-- Follow PSR standards and include meaningful commit messages.
-
-
-## License 📄
-MIT — see `composer.json` for license info.
+.
 
