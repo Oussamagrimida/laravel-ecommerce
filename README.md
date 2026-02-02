@@ -58,6 +58,46 @@ php artisan test
 ./vendor/bin/pest
 ```
 
+---
+
+## Screenshots 📷
+A quick visual tour of the app (images are in the `screenshots/` folder):
+
+### Public pages
+- **Homepage**
+
+  ![Homepage](screenshots/homepage.png)
+
+- **Homepage (alt)**
+
+  ![Homepage 1](screenshots/homepage1.png)
+
+- **Homepage (alt 2)**
+
+  ![Homepage 2](screenshots/homepage2.png)
+
+- **Shop**
+
+  ![Shop](screenshots/shop.png)
+
+- **Login page**
+
+  ![Login Page](screenshots/loginpage.png)
+
+- **Shopping cart**
+
+  ![Shopping Cart](screenshots/shoppingcart.png)
+
+### Admin area
+- **Admin dashboard**
+
+  ![Admin Dashboard](screenshots/admindashboard.png)
+
+- **Admin dashboard (alt)**
+
+  ![Admin Dashboard 1](screenshots/admindashboard1.png)
+
+
 
 
 
